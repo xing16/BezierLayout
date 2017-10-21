@@ -8,5 +8,7 @@ Android 弧形头部布局，可更改自己需求，集成自己的 Layout；�
 <img src="https://github.com/xing16/BezierLayout/raw/master/screenshot/s2.png" with="40%" alt="图片背景"/>
 
 
-<img src="https://github.com/xing16/BezierLayout/raw/master/screenshot/s1.png" width="80%"  alt="screen.png"/>
+
+![颜色背景](https://github.com/xing16/BezierLayout/raw/master/screenshot/s1.png)
+![图片背景](https://github.com/xing16/BezierLayout/raw/master/screenshot/s1.png)
 
